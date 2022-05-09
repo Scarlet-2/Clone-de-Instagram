@@ -1,0 +1,35 @@
+
+.caixa_story {
+    margin: 20px auto;
+    border: 1px solid #EFEFEF;
+    width: 500px;
+    background: #FFFFFF;
+    display: flex;
+    flex: none;
+    overflow: auto;
+    font-size: 11px;
+    padding: 5px 10px;
+}
+
+.padding__story{
+    margin-right: 10px;
+    width: 100%;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    border-radius: 360px;
+}
+
+.story {
+    margin: 20px auto;
+    border: 1px solid #EFEFEF;
+    width: 500px;
+    background: #FFFFFF;
+    display: flex;
+    flex: none;
+    
+    font-size: 11px;
+    padding: 5px 10px;
+}
